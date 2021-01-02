@@ -67,3 +67,7 @@ function chgImg()
  
   document.getElementById("newImg").src = png;
 }
+function resetCanvas() {
+  ctx.clearRect(0, 0, ctx.canvas.clientWidth, ctx.canvas.clientHeight);
+  console.log('リセット！');
+}
