@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="canvasBoad.css" />
+  <title>Document</title>
+</head>
+<body>
+  <canvas id="canvassample" width="500" height="300"></canvas>
+<div>
+  <button type="button" onclick="colorCange(0)">ペン</button>
+  <button type="button" onclick="colorCange(1)" >消しゴム</button>
+</div>
+<h2>画像出力<h2>  
+<div id="img-box"><img id="newImg"></div>
+<div id="btn-box">
+    <button type="button" onclick="chgImg()" value="1">保存</button>
+</div>
+<script src="canvasBoad.js"></script>
+</body>
+</html>

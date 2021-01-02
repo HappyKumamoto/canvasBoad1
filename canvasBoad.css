@@ -1,0 +1,19 @@
+body{
+  background-color:bisque;
+  color:brown;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  position: relative;
+  background-color: white;
+  border:3px solid #000;
+}
+
+div#img-box{
+  text-align: center;
+  border:3px solid #000;
+  width:500px;
+  margin:0 auto;
+}
