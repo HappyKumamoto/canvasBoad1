@@ -23,7 +23,7 @@ function startPoint(e){
   e.preventDefault();
   ctx.beginPath();
    
-  // 矢印の先っぽから始まるように調整
+  // マウス位置丁度から始まるように調整
   Xpoint = e.layerX;
   Ypoint = e.layerY;
    
