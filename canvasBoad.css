@@ -3,6 +3,7 @@ body{
   background-color: #CCCC00 ;
   color:brown;
   text-align: center;
+  position: relative;
   top:100px;
   /*margin: 0;*/
   /*padding: 0;*/
