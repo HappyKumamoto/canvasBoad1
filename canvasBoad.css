@@ -4,8 +4,8 @@ body{
   color:brown;
   text-align: center;
   top: 30px;
-  margin: 0;
-  padding: 0;
+  /*margin: 0;*/
+  /*padding: 0;*/
 }
 canvas {
   position: relative;
