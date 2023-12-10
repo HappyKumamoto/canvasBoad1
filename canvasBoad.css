@@ -2,7 +2,8 @@ body{
   /*background-color:rgb(228, 166, 32); */
   /*background-color: #CCCC00 ; */
   background-color: dodgerblue ; /* #1e90ff */
-  color:brown;
+  /* color:brown; */
+  color: ivory; /* #fffff0 */
   text-align: center;
   position: relative;
   top:100px;
